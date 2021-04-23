@@ -1,0 +1,13 @@
+Package: cosinedistance
+Type: Package
+Title: Compute cosine distance
+Version: 0.1.0
+Author: Christopher R. Cox
+Maintainer: Christopher R. Cox <chriscox@lsu.edu>
+Description: Works with a single matrix, two vectors, a pair of matrices of equal dimension, or a matrix and a vector to conveniently compute cosine distance.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  assertthat
+RoxygenNote: 7.1.1
